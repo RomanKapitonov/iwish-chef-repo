@@ -1,0 +1,6 @@
+[submodule "cookbooks/chef-web-server"]
+	path = cookbooks/chef-web-server
+	url = git@github.com:RomanKapitonov/chef-web-server.git
+[submodule "cookbooks/chef-database-server"]
+	path = cookbooks/chef-database-server
+	url = git@github.com:RomanKapitonov/chef-database-server.git
